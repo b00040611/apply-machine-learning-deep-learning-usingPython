@@ -28,9 +28,9 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [Python Packages for Machine Learning](#python-packages-for-machine-learning)
   - [Practice Your Skills](#pratice-your-skills)
 - [Deep Learning](#deep-learning)
-  - [Courses](#courses)
-  - [Books](#books)
-  - [Other Resources](#other-resources)
+  - [Deep Learning Courses](#deep-learning-courses)
+  - [Framework](#framework)
+  - [Resources List of Deep Learning](#resources-list-of-deep-learning)
   - [Low-Level Vision](#low-level-vision)
     - [Super-Resolution](#super-resolution)
     - [Other Applications](#other-applications)
@@ -96,6 +96,29 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * [Pratice your skills and learn from others on kaggle](https://www.kaggle.com/)
 
 ## Deep Learning
+### Deep Learning Courses
+  * [University of Toronto] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) - by:  Geoffrey Hinton, Professor
+  * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - by Fei-Fei Li, Andrej Karpathy 
+  * [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+
+### Framework
+* Keras: The Python Deep Learning library on top of either TensorFlow, CNTK or Theano. [[Web](https://keras.io/)]
+* Tensorflow: An open source software library for numerical computation using data flow graph by Google [[Web](https://www.tensorflow.org/)]
+* Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)]
+  * Torch-based deep learning libraries: [[torchnet](https://github.com/torchnet/torchnet)],
+  * Pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration.[[Web](http://pytorch.org/)]
+* Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)]
+* Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
+  * Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)], [[Blocks](https://github.com/mila-udem/blocks)], [[Keras](http://keras.io/)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
+* CNTK: A unified deep-learning toolkit by Microsoft [[Web](https://docs.microsoft.com/en-us/cognitive-toolkit/)]
+
+
+### Resources List of Deep Learning
+
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) -  Practical Deep Learning resources For Coders
+* [Awesome Deep Vision](https://github.com/apacha/awesome-deep-vision) - A list of deep learning resources for computer vision
+
+
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
