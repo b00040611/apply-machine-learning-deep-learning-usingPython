@@ -21,12 +21,16 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 - [Python](#python)
   - [Python IDE](#python-ide)
   - [Courses](#courses)
-  - [Books](#python-cookbook)
+  - [Python Books](#python-books)
   - [Other Resources](#other-resources)
 - [Machine Learning Using Python](#machine-learning-using-python)
   - [Machine Learning Courses](#machine-learning-courses)
   - [Python Packages for Machine Learning](#python-packages-for-machine-learning)
   - [Practice Your Skills](#pratice-your-skills)
+- [Deep Learning](#deep-learning)
+  - [Courses](#courses)
+  - [Books](#books)
+  - [Other Resources](#other-resources)
   - [Low-Level Vision](#low-level-vision)
     - [Super-Resolution](#super-resolution)
     - [Other Applications](#other-applications)
@@ -59,7 +63,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 * [Programming for Everybody](https://www.coursera.org/learn/python) - Open course in Coursera from University of Michigan.
 
-### Books
+### Python Books
 
 * [Python Cookbook](https://learko.github.io/books/coding/Python_Cookbook_3rd_Edition.pdf) - Advanced use of python.
 
@@ -91,6 +95,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 * [Pratice your skills and learn from others on kaggle](https://www.kaggle.com/)
 
+## Deep Learning
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
 (from Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.)
