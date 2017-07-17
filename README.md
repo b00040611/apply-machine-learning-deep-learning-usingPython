@@ -41,8 +41,6 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
     - [Question Answering](#question-answering)
   - [Image Generation](#image-generation)
   - [Other Topics](#other-topics)
-- [Courses](#courses)
-- [Books](#books)
 - [Videos](#videos)
 - [Software](#software)
   - [Framework](#framework)
@@ -402,7 +400,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Facial Landmark Detection
   * Yue Wu, Tal Hassner, KangGeon Kim, Gerard Medioni, Prem Natarajan, Facial Landmark Detection with Tweaked Convolutional Neural Networks, 2015. [[Paper]](http://arxiv.org/abs/1511.04031) [[Project]](http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/)
 
-## Courses
+
 * Deep Vision
   * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
   * [CUHK] [ELEG 5040: Advanced Topics in Signal Processing(Introduction to Deep Learning)](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
@@ -411,7 +409,6 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * [Oxford] [Deep Learning by Prof. Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
   * [NYU] [Deep Learning by Prof. Yann LeCun](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
 
-## Books
 * Free Online Books
   * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.iro.umontreal.ca/~bengioy/dlbook/)
   * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
