@@ -1,4 +1,4 @@
-# Awesome Deep Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Apply Machine Learning and Deep Learning Tools in Our Research(using Python) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
@@ -18,7 +18,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://jiwonkim.org/awesome-deep-vision&title=Awesome%20Deep%20Vision&summary=&source=)
 
 ## Table of Contents
-- [Papers](#papers)
+- [Python](#papers)
   - [ImageNet Classification](#imagenet-classification)
   - [Object Detection](#object-detection)
   - [Object Tracking](#object-tracking)
