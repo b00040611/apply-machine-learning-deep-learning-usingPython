@@ -1,4 +1,4 @@
-# Apply Machine Learning and Deep Learning Tools in Our Research(using Python) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Apply Machine Learning and Deep Learning Tools in Our Research(using Python)
 
 A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
@@ -23,7 +23,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [Courses](#courses)
   - [Books](#python-cookbook)
   - [Other Resources](#other-resources)
-  - [Object Detection](#object-detection)
+- [Machine Learning Using Python](#python-ml)
+  - [Courses](#machine-learning-course)
   - [Object Tracking](#object-tracking)
   - [Low-Level Vision](#low-level-vision)
     - [Super-Resolution](#super-resolution)
@@ -57,7 +58,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ### Courses
 
-* [Programming for Everybody](https://www.coursera.org/learn/python)
+* [Programming for Everybody](https://www.coursera.org/learn/python) - Open course in Coursera from University of Michigan.
 
 ### Books
 
@@ -70,6 +71,15 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * [List of Python API Wrappers](https://github.com/realpython/list-of-python-api-wrappers)
 * [List of resources about Python in Education](https://github.com/quobit/awesome-python-in-education)
 * [Some frameworks including Django and Flask](https://github.com/adrianmoisey/learn-python)
+
+## Machine Learning Using Python
+
+### Courses
+
+* [Machine Learning](https://www.coursera.org/learn/machine-learning) - Introduction to machine learning, datamining, and statistical pattern recognition, by Andrew Ng (Standford University).
+* [Tutorials: Data analysis using Python](https://pythonprogramming.net/data-analysis-tutorials/) - Tutorial with code samples.
+
+
 
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
