@@ -30,6 +30,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 - [Deep Learning](#deep-learning)
   - [Deep Learning Courses](#deep-learning-courses)
   - [Framework](#framework)
+  - [Applications and Network Structures](#applications-and-network-structures)
+    - [ImageNet Classification](#imagenet-classification)
+    - [Object Detection](#object-detection)
+    - [Object Tracking](#object-tracking)
   - [Resources List of Deep Learning](#resources-list-of-deep-learning)
   - [Low-Level Vision](#low-level-vision)
     - [Super-Resolution](#super-resolution)
@@ -112,11 +116,42 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)], [[Blocks](https://github.com/mila-udem/blocks)], [[Keras](http://keras.io/)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
 * CNTK: A unified deep-learning toolkit by Microsoft [[Web](https://docs.microsoft.com/en-us/cognitive-toolkit/)]
 
+### Applications and Network Structures
+
+#### ImageNet Classification
+* Microsoft ResNet (Deep Residual Learning) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
+  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition, arXiv:1512.03385.
+* GoogLeNet [[Paper]](http://arxiv.org/pdf/1409.4842)
+  * Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, CVPR, 2015.
+* VGG-Net [[Web]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) [[Paper]](http://arxiv.org/pdf/1409.1556)
+  * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
+* AlexNet [[Paper]](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
+  * Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
+
+#### Object Detection
+
+* PVANET [[Paper]](https://arxiv.org/pdf/1608.08021) [[Code]](https://github.com/sanghoon/pva-faster-rcnn)
+  * Kye-Hyeon Kim, Sanghoon Hong, Byungseok Roh, Yeongjae Cheon, Minje Park, PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection, arXiv:1608.08021
+* R-CNN, UC Berkeley [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Paper-arXiv14]](http://arxiv.org/pdf/1311.2524)
+  * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
+* SPP, Microsoft Research [[Paper]](http://arxiv.org/pdf/1406.4729)
+  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV, 2014.
+* Fast R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1504.08083)
+  * Ross Girshick, Fast R-CNN, arXiv:1504.08083.
+* Faster R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1506.01497)
+  * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, arXiv:1506.01497.
+* Inside-Outside Net [[Paper]](http://arxiv.org/abs/1512.04143)
+  * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick, Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
+* Deep Residual Network (Current State-of-the-Art) [[Paper]](http://arxiv.org/abs/1512.03385)
+  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition
+* R-FCN [[Paper]](https://arxiv.org/abs/1605.06409) [[Code]](https://github.com/daijifeng001/R-FCN)
+  * Jifeng Dai, Yi Li, Kaiming He, Jian Sun, R-FCN: Object Detection via Region-based Fully Convolutional Networks
 
 ### Resources List of Deep Learning
 
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) -  Practical Deep Learning resources For Coders
 * [Awesome Deep Vision](https://github.com/apacha/awesome-deep-vision) - A list of deep learning resources for computer vision
+* [List of Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 
 ### Object Detection
