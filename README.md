@@ -25,6 +25,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [Other Resources](#other-resources)
 - [Machine Learning Using Python](#machine-learning-using-python)
   - [Machine Learning Courses](#machine-learning-courses)
+  - [Python Packages for Machine Learning](#python-packages-for-machine-learning)
   - [Object Tracking](#object-tracking)
   - [Low-Level Vision](#low-level-vision)
     - [Super-Resolution](#super-resolution)
@@ -77,7 +78,13 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) - Introduction to machine learning, datamining, and statistical pattern recognition, by Andrew Ng (Standford University).
 * [Tutorials: Data analysis using Python](https://pythonprogramming.net/data-analysis-tutorials/) - Tutorial with code samples.
 
+### Python Packages for Machine Learning
 
+* [scikit-learn](http://scikit-learn.org/stable/) - Simple and efficient tools for data mining and data analysis.
+& [pandas](http://pandas.pydata.org/) - Python Data Analysis Library.
+* [Numpy](http://www.numpy.org/) - Fundamental package for scientific computing with Python.
+* [SciPy](https://www.scipy.org/) - user-friendly and efficient numerical routines such as routines for numerical integration and optimization.
+* [matplotlib](https://matplotlib.org/) - Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
