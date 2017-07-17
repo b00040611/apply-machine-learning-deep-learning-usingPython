@@ -18,7 +18,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 + [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://jiwonkim.org/awesome-deep-vision&title=Awesome%20Deep%20Vision&summary=&source=)
 
 ## Table of Contents
-- [Python](#papers)
+- [Python](#python)
   - [ImageNet Classification](#imagenet-classification)
   - [Object Detection](#object-detection)
   - [Object Tracking](#object-tracking)
@@ -46,7 +46,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
 
-## Papers
+## Python
 
 ### ImageNet Classification
 ![classification](https://cloud.githubusercontent.com/assets/5226447/8451949/327b9566-2022-11e5-8b34-53b4a64c13ad.PNG)
