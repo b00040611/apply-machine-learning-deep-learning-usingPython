@@ -19,7 +19,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ## Table of Contents
 - [Python](#python)
-  - [ImageNet Classification](#imagenet-classification)
+  - [Python IDE](#python-ide)
+  - [Other Resources](#other-resources)
   - [Object Detection](#object-detection)
   - [Object Tracking](#object-tracking)
   - [Low-Level Vision](#low-level-vision)
@@ -48,7 +49,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ## Python
 
-### ImageNet Classification
+### Python IDE
 ![classification](https://cloud.githubusercontent.com/assets/5226447/8451949/327b9566-2022-11e5-8b34-53b4a64c13ad.PNG)
 (from Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.)
 * Microsoft (Deep Residual Learning) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
@@ -63,6 +64,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
 * AlexNet [[Paper]](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
   * Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
+
+### Other Resources
+
+* [A curated list of awesome Python frameworks, libraries and software](https://github.com/uhub/awesome-python)
 
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
