@@ -1,4 +1,4 @@
-# Apply Machine Learning and Deep Learning Tools in Our Research(using Python)
+# Apply Machine Learning and Deep Learning Tools in Our Research (using Python)
 
 A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
@@ -24,7 +24,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [Books](#python-cookbook)
   - [Other Resources](#other-resources)
 - [Machine Learning Using Python](#python-ml)
-  - [Courses](#machine-learning-course)
+  - [Machine Learning Courses](#machine-learning-course)
   - [Object Tracking](#object-tracking)
   - [Low-Level Vision](#low-level-vision)
     - [Super-Resolution](#super-resolution)
@@ -74,7 +74,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ## Machine Learning Using Python
 
-### Courses
+### Machine Learning Courses
 
 * [Machine Learning](https://www.coursera.org/learn/machine-learning) - Introduction to machine learning, datamining, and statistical pattern recognition, by Andrew Ng (Standford University).
 * [Tutorials: Data analysis using Python](https://pythonprogramming.net/data-analysis-tutorials/) - Tutorial with code samples.
