@@ -20,6 +20,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ## Table of Contents
 - [Python](#python)
   - [Python IDE](#python-ide)
+  - [Courses](#courses)
+  - [Books](#python-cookbook)
   - [Other Resources](#other-resources)
   - [Object Detection](#object-detection)
   - [Object Tracking](#object-tracking)
@@ -50,24 +52,24 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ## Python
 
 ### Python IDE
-![classification](https://cloud.githubusercontent.com/assets/5226447/8451949/327b9566-2022-11e5-8b34-53b4a64c13ad.PNG)
-(from Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.)
-* Microsoft (Deep Residual Learning) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
-  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition, arXiv:1512.03385.
-* Microsoft (PReLu/Weight Initialization) [[Paper]](http://arxiv.org/pdf/1502.01852)
-  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, arXiv:1502.01852.
-* Batch Normalization [[Paper]](http://arxiv.org/pdf/1502.03167)
-  * Sergey Ioffe, Christian Szegedy, Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, arXiv:1502.03167.
-* GoogLeNet [[Paper]](http://arxiv.org/pdf/1409.4842)
-  * Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, CVPR, 2015.
-* VGG-Net [[Web]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) [[Paper]](http://arxiv.org/pdf/1409.1556)
-  * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
-* AlexNet [[Paper]](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
-  * Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
+
+* [Anaconda](https://www.continuum.io/downloads)- The open source version of Anaconda is a high performance distribution of Python and R and includes over 100 of the most popular Python, R and Scala packages for data science.
+
+### Courses
+
+* [Programming for Everybody](https://www.coursera.org/learn/python)
+
+### Books
+
+* [Python Cookbook](https://learko.github.io/books/coding/Python_Cookbook_3rd_Edition.pdf) - Advanced use of python.
 
 ### Other Resources
 
-* [A curated list of awesome Python frameworks, libraries and software](https://github.com/uhub/awesome-python)
+* [A list of awesome Python frameworks, libraries and software](https://github.com/uhub/awesome-python)
+* [Another list of awesome Python frameworks, libraries and software](https://github.com/vinta/awesome-python#distribution)
+* [List of Python API Wrappers](https://github.com/realpython/list-of-python-api-wrappers)
+* [List of resources about Python in Education](https://github.com/quobit/awesome-python-in-education)
+* [Some frameworks including Django and Flask](https://github.com/adrianmoisey/learn-python)
 
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
