@@ -26,7 +26,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 - [Machine Learning Using Python](#machine-learning-using-python)
   - [Machine Learning Courses](#machine-learning-courses)
   - [Python Packages for Machine Learning](#python-packages-for-machine-learning)
-  - [Object Tracking](#object-tracking)
+  - [Practice Your Skills](#pratice-your-skills)
   - [Low-Level Vision](#low-level-vision)
     - [Super-Resolution](#super-resolution)
     - [Other Applications](#other-applications)
@@ -81,10 +81,15 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 ### Python Packages for Machine Learning
 
 * [scikit-learn](http://scikit-learn.org/stable/) - Simple and efficient tools for data mining and data analysis.
-& [pandas](http://pandas.pydata.org/) - Python Data Analysis Library.
+* [pandas](http://pandas.pydata.org/) - Python Data Analysis Library.
 * [Numpy](http://www.numpy.org/) - Fundamental package for scientific computing with Python.
 * [SciPy](https://www.scipy.org/) - user-friendly and efficient numerical routines such as routines for numerical integration and optimization.
 * [matplotlib](https://matplotlib.org/) - Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+* [list of other python libraries for machine learning](https://github.com/josephmisiti/awesome-machine-learning#python)
+
+### Practice Your Skills
+
+* [Pratice your skills and learn from others on kaggle](https://www.kaggle.com/)
 
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
