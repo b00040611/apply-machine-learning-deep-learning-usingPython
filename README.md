@@ -24,6 +24,11 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
     - [Recurrent Neural Networks](#recurrent-neural-networks)
     - [Recursive Neural Networks](#recursive-neural-networks)
   - [Datasets](#datasets)
+    -[Image](#image)
+    -[Handwriting](#handwriting)
+    -[Video](#video)
+- [Using Commercial Cloud Computing](#using-commercial-cloud-computing)
+  - [ML and DL APIs](#ml-and-dl-apis)
 
 ## Python
 
@@ -135,3 +140,17 @@ tree, rather than the chain-like structure of RNNs.)
 
 ### Datasets
 
+#### Image
+* [IMAGENET](http://www.image-net.org/)
+* [CIFAR-10 and CIFAR-100](http://www.cs.toronto.edu/~kriz/cifar.html)
+* [AT&T Laboratories Cambridge face database](http://www.uk.research.att.com/facedatabase.html)
+* [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) from street view
+* [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
+
+#### Handwriting
+* [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
+
+#### Video
+* [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
+
+### Using Commercial Cloud Computing
