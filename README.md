@@ -27,6 +27,7 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
     -[Image](#image)
     -[Handwriting](#handwriting)
     -[Video](#video)
+  - [Model Zoo](#model-zoo)
 - [Using Commercial Cloud Computing Platforms](#using-commercial-cloud-computing-platforms)
   - [ML and DL APIs](#ml-and-dl-apis)
 
@@ -136,6 +137,7 @@ tree, rather than the chain-like structure of RNNs.)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) -  Practical Deep Learning resources For Coders
 * [Awesome Deep Vision](https://github.com/apacha/awesome-deep-vision) - A list of deep learning resources for computer vision
 * [List of Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [A list of recent papers and trained models](https://github.com/endymecy/awesome-deeplearning-resources)
 
 
 ### Datasets
@@ -153,4 +155,11 @@ tree, rather than the chain-like structure of RNNs.)
 #### Video
 * [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
 
-### Using Commercial Cloud Computing Platforms
+### Model Zoo
+
+* [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
+* [MXNet Model Zoo](http://mxnet.io/model_zoo/)
+* [Keras Model Zoo](https://keras.io/applications/)
+* [Torch Model Zoo](https://github.com/szagoruyko/loadcaffe)- Maintains a list of popular models like AlexNet and VGG .Weights ported from Caffe
+
+## Using Commercial Cloud Computing Platforms
