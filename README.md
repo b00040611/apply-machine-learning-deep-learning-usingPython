@@ -30,8 +30,10 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 - [Deep Learning](#deep-learning)
   - [Deep Learning Courses](#deep-learning-courses)
   - [Framework](#framework)
-  - [Applications and Network Structures](#applications-and-network-structures)
-    - [ImageNet Classification](#imagenet-classification)
+  - [Network Architectures and Examples](#network-architectures-and-examples)
+    - [Convolutional Networks](#convolutional-networks)
+    - [Recurrent Neural Networks](#recurrent-neural-networks)
+    - [Recursive Neural Networks](#recursive-neural-networks)
     - [Object Detection](#object-detection)
     - [Object Tracking](#object-tracking)
   - [Resources List of Deep Learning](#resources-list-of-deep-learning)
@@ -113,31 +115,26 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Pytorch (Facebook): Tensors and Dynamic neural networks in Python with strong GPU acceleration.[[Web](http://pytorch.org/)]
 * Caffe (UC Berkeley): Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)]
   *Caffe2 (Facebook): A New Lightweight, Modular, and Scalable Deep Learning Framework[[Web](https://caffe2.ai/)]
-* Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
+* Theano (U Montreal): Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
   * Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)], [[Blocks](https://github.com/mila-udem/blocks)], [[Keras](http://keras.io/)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
 * CNTK (Microsoft): A unified deep-learning toolkit by Microsoft [[Web](https://docs.microsoft.com/en-us/cognitive-toolkit/)]
 * MXNet (Amazon): Developed by U Washington, CMU, MIT, Hong Kong U, etc but main framework of choice at AWS [[Web](https://github.com/dmlc/mxnet/)]
 
-### Applications and Network Structures
+### Network Architectures and Examples
 
-#### ImageNet Classification
-* Microsoft ResNet (Deep Residual Learning) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
-  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition, arXiv:1512.03385.
-* GoogLeNet [[Paper]](http://arxiv.org/pdf/1409.4842)
-  * Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, CVPR, 2015.
-* VGG-Net [[Web]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) [[Paper]](http://arxiv.org/pdf/1409.1556)
-  * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
+#### Convolutional Networks
+
+(CNNs are a specialized kind of neural network for processing datathat has a known, grid-like topology. Examples include time-series data, which canbe thought of as a 1D grid taking samples at regular time intervals, and image data,which can be thought of as a 2D grid of pixels. The name “convolutional neuralnetwork” indicates that the network employs a mathematical operation called convolution. Convolution is a specialized kind of linear operation. Convolutionalnetworks are simply neural networks that use convolution in place of general matrix multiplication in at least one of their layers. Typical applications: Image Classification, Image Segmentation\Object Detection [Region-CNN])
+
 * AlexNet [[Paper]](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012)
   * Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
-
-#### Object Detection
-
-* PVANET [[Paper]](https://arxiv.org/pdf/1608.08021) [[Code]](https://github.com/sanghoon/pva-faster-rcnn)
-  * Kye-Hyeon Kim, Sanghoon Hong, Byungseok Roh, Yeongjae Cheon, Minje Park, PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection, arXiv:1608.08021
+* VGG-Net [[Web]](http://www.robots.ox.ac.uk/~vgg/research/very_deep/) [[Paper]](http://arxiv.org/pdf/1409.1556)
+  * Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
+* GoogLeNet [[Paper]](http://arxiv.org/pdf/1409.4842)
+  * Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, CVPR, 2015.
+* Microsoft ResNet (Deep Residual Learning) [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
+  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition, arXiv:1512.03385.
 * R-CNN, UC Berkeley [[Paper-CVPR14]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) [[Paper-arXiv14]](http://arxiv.org/pdf/1311.2524)
-  * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
-* SPP, Microsoft Research [[Paper]](http://arxiv.org/pdf/1406.4729)
-  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV, 2014.
 * Fast R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1504.08083)
   * Ross Girshick, Fast R-CNN, arXiv:1504.08083.
 * Faster R-CNN, Microsoft Research [[Paper]](http://arxiv.org/pdf/1506.01497)
@@ -148,6 +145,21 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition
 * R-FCN [[Paper]](https://arxiv.org/abs/1605.06409) [[Code]](https://github.com/daijifeng001/R-FCN)
   * Jifeng Dai, Yi Li, Kaiming He, Jian Sun, R-FCN: Object Detection via Region-based Fully Convolutional Networks
+
+#### Recurrent Neural Networks
+
+(RNNs are a family ofneural networks for processing sequential data. Typical applications: Image Captioning[CNN+RNN], Natural Language Processing. Common used techniques are LSTM and GRU which are variants of RNN.)
+
+* LSTM[[Paper](https://arxiv.org/pdf/1503.04069.pdf?utm_content=buffereddc5&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)] LSTM: A search space odyssey (2016), K. Greff et al.
+* GRU [[Paper](https://arxiv.org/pdf/1406.1078.pdf)] Learning phrase representations using RNN encoder-decoder for statistical machine translation (2014), K. Cho et al.
+
+#### Recursive Neural Networks
+
+(Recursive neural networks2 represent yet another generalization of recurrent networks,
+with a different kind of computational graph, which is structured as a deep
+tree, rather than the chain-like structure of RNNs.)
+
+Recursive deep models for semantic compositionality over a sentiment treebank (2013), R. Socher et al. [[Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)]
 
 ### Resources List of Deep Learning
 
