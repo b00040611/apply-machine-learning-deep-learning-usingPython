@@ -27,7 +27,7 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
     -[Image](#image)
     -[Handwriting](#handwriting)
     -[Video](#video)
-- [Using Commercial Cloud Computing](#using-commercial-cloud-computing)
+- [Using Commercial Cloud Computing Platforms](#using-commercial-cloud-computing-platforms)
   - [ML and DL APIs](#ml-and-dl-apis)
 
 ## Python
@@ -153,4 +153,4 @@ tree, rather than the chain-like structure of RNNs.)
 #### Video
 * [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
 
-### Using Commercial Cloud Computing
+### Using Commercial Cloud Computing Platforms
