@@ -30,6 +30,7 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
     - [Handwriting](#handwriting)
     - [Video](#video)
   - [Model Zoo](#model-zoo)
+  - [Research Groups And People](#research-groups-and-people)
   - [Other Resources of Deep Learning](#other-resources-of-deep-learning)
 - [Using Commercial Cloud Computing Platforms](#using-commercial-cloud-computing-platforms)
   - [ML and DL APIs](#ml-and-dl-apis)
@@ -143,6 +144,8 @@ tree, rather than the chain-like structure of RNNs.)
 
 #### Generative Adversarial Network
 
+(Generative adversarial networks (GANs) are a class of artificial intelligence algorithms used in unsupervised machine learning, implemented by a system of two neural networks contesting with each other in a zero-sum game framework.)
+
 * GAN - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
 ### Datasets
@@ -168,6 +171,28 @@ tree, rather than the chain-like structure of RNNs.)
 * [MXNet Model Zoo](http://mxnet.io/model_zoo/)
 * [Keras Model Zoo](https://keras.io/applications/)
 * [Torch Model Zoo](https://github.com/szagoruyko/loadcaffe)- Maintains a list of popular models like AlexNet and VGG. Weights ported from Caffe
+
+### Research Groups And People
+
+* University of Toronto – [Machine Learning Group](http://deeplearning.cs.toronto.edu/people) (Geoffrey Hinton, Rich Zemel, Ruslan Salakhutdinov, Brendan Frey, Radford Neal)
+
+Université de Montréal –  [MILA Lab](https://mila.umontreal.ca) (Yoshua Bengio, Pascal Vincent, Aaron Courville, Roland Memisevic)
+
+New York University – [Yann Lecun](http://yann.lecun.com/ex/index.html), Rob Fergus, David Sontag and Kyunghyun Cho
+
+Stanford University – [Andrew Ng](http://www.robotics.stanford.edu/~ang/group.html), Christopher Manning‘s, [Fei-fei Li‘s](http://vision.stanford.edu/feifeili/)
+ group
+University of Oxford – [Deep learning group](http://www.cs.ox.ac.uk/people/phil.blunsom/),  Nando de Freitas and Phil Blunsom, Andrew Zisserman
+
+[Google Research](http://research.google.com) – Jeff Dean, Geoffrey Hinton, Samy Bengio, Ilya Sutskever, Ian Goodfellow, Oriol Vinyals, Dumitru Erhan, Quoc Le et al
+
+[Google DeepMind](http://deepmind.com/) – Alex Graves, Karol Gregor, Koray Kavukcuoglu, Andriy Mnih, Guillaume Desjardins, Xavier Glorot, Razvan Pascanu, Volodymyr Mnih et al
+
+[Facebook AI Research(FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) – Yann Lecun, Rob Fergus, Jason Weston, Antoine Bordes, Soumit Chintala, Leon Bouttou, Ronan Collobert, Yann Dauphin et al.
+
+Twitter’s Deep Learning Group – Hugo Larochelle, Ryan Adams, Clement Farabet et al
+
+[Microsoft Research](https://www.microsoft.com/en-us/research/group/deep-learning-group/) – Li Deng et al
 
 ### Other Resources of Deep Learning
 
