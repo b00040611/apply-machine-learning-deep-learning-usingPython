@@ -6,7 +6,7 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
 
 ## Contributing
 
-Welcome your contribution by comments or [Pull requests] (https://github.com/b00040611/apply-machine-learning-deep-learning-usingPython/pulls).
+Welcome your contribution by comments or [Pull requests](https://github.com/b00040611/apply-machine-learning-deep-learning-usingPython/pulls).
 
 ## Table of Contents
 - [Python](#python)
@@ -176,7 +176,7 @@ tree, rather than the chain-like structure of RNNs.)
 
 ### Research Groups And People
 
-* University of Toronto – [Machine Learning Group](http://deeplearning.cs.toronto.edu/people) (Geoffrey Hinton, Rich Zemel, Ruslan Salakhutdinov, Brendan Frey, Radford Neal)
+* University of Toronto – [Machine Learning Group](http://deeplearning.cs.toronto.edu/people) (Geoffrey Hinton, et al.)
 
 * Université de Montréal –  [MILA Lab](https://mila.umontreal.ca) (Yoshua Bengio, Pascal Vincent, Aaron Courville, Roland Memisevic)
 
@@ -186,11 +186,11 @@ tree, rather than the chain-like structure of RNNs.)
 
 * University of Oxford – [Deep learning group](http://www.cs.ox.ac.uk/people/phil.blunsom/),  Nando de Freitas and Phil Blunsom, Andrew Zisserman
 
-* [Google Research](http://research.google.com) – Jeff Dean, Geoffrey Hinton, Samy Bengio, Ilya Sutskever, Ian Goodfellow, Oriol Vinyals, Dumitru Erhan, Quoc Le et al
+* [Google Research](http://research.google.com) – Jeff Dean, Geoffrey Hinton, Samy Bengio, Ilya Sutskever, Ian Goodfellow, Oriol Vinyals et al.
 
-* [Google DeepMind](http://deepmind.com/) – Alex Graves, Karol Gregor, Koray Kavukcuoglu, Andriy Mnih, Guillaume Desjardins, Xavier Glorot, Razvan Pascanu, Volodymyr Mnih et al
+* [Google DeepMind](http://deepmind.com/) – Alex Graves, Karol Gregor, Koray Kavukcuoglu, Andriy Mnih, Guillaume Desjardins, et al.
 
-* [Facebook AI Research(FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) – Yann Lecun, Rob Fergus, Jason Weston, Antoine Bordes, Soumit Chintala, Leon Bouttou, Ronan Collobert, Yann Dauphin et al.
+* [Facebook AI Research(FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) – Yann Lecun, Rob Fergus, Jason Weston, Antoine Bordes, Yann Dauphin et al.
 
 * [Microsoft Research](https://www.microsoft.com/en-us/research/group/deep-learning-group/) – Li Deng et al
 
