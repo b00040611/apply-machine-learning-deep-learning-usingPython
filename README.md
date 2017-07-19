@@ -1,10 +1,12 @@
 # Apply Machine Learning and Deep Learning Tools in Our Research (using Python)
 
-A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
+A list of resources which help researchers to apply Machine Learning and Deep Learning Tools in research (using Python). 
 
 Maintainers - [Luke Liu](https://github.com/b00040611)
 
 ## Contributing
+
+Welcome your contribution by comments or [Pull requests] (https://github.com/b00040611/apply-machine-learning-deep-learning-usingPython/pulls).
 
 ## Table of Contents
 - [Python](#python)
@@ -176,23 +178,21 @@ tree, rather than the chain-like structure of RNNs.)
 
 * University of Toronto – [Machine Learning Group](http://deeplearning.cs.toronto.edu/people) (Geoffrey Hinton, Rich Zemel, Ruslan Salakhutdinov, Brendan Frey, Radford Neal)
 
-Université de Montréal –  [MILA Lab](https://mila.umontreal.ca) (Yoshua Bengio, Pascal Vincent, Aaron Courville, Roland Memisevic)
+* Université de Montréal –  [MILA Lab](https://mila.umontreal.ca) (Yoshua Bengio, Pascal Vincent, Aaron Courville, Roland Memisevic)
 
-New York University – [Yann Lecun](http://yann.lecun.com/ex/index.html), Rob Fergus, David Sontag and Kyunghyun Cho
+* New York University – [Yann Lecun](http://yann.lecun.com/ex/index.html), Rob Fergus, David Sontag and Kyunghyun Cho
 
-Stanford University – [Andrew Ng](http://www.robotics.stanford.edu/~ang/group.html), Christopher Manning‘s, [Fei-fei Li‘s](http://vision.stanford.edu/feifeili/)
- group
-University of Oxford – [Deep learning group](http://www.cs.ox.ac.uk/people/phil.blunsom/),  Nando de Freitas and Phil Blunsom, Andrew Zisserman
+* Stanford University – [Andrew Ng](http://www.robotics.stanford.edu/~ang/group.html), Christopher Manning‘s, [Fei-fei Li‘s](http://vision.stanford.edu/feifeili/) group
 
-[Google Research](http://research.google.com) – Jeff Dean, Geoffrey Hinton, Samy Bengio, Ilya Sutskever, Ian Goodfellow, Oriol Vinyals, Dumitru Erhan, Quoc Le et al
+* University of Oxford – [Deep learning group](http://www.cs.ox.ac.uk/people/phil.blunsom/),  Nando de Freitas and Phil Blunsom, Andrew Zisserman
 
-[Google DeepMind](http://deepmind.com/) – Alex Graves, Karol Gregor, Koray Kavukcuoglu, Andriy Mnih, Guillaume Desjardins, Xavier Glorot, Razvan Pascanu, Volodymyr Mnih et al
+* [Google Research](http://research.google.com) – Jeff Dean, Geoffrey Hinton, Samy Bengio, Ilya Sutskever, Ian Goodfellow, Oriol Vinyals, Dumitru Erhan, Quoc Le et al
 
-[Facebook AI Research(FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) – Yann Lecun, Rob Fergus, Jason Weston, Antoine Bordes, Soumit Chintala, Leon Bouttou, Ronan Collobert, Yann Dauphin et al.
+* [Google DeepMind](http://deepmind.com/) – Alex Graves, Karol Gregor, Koray Kavukcuoglu, Andriy Mnih, Guillaume Desjardins, Xavier Glorot, Razvan Pascanu, Volodymyr Mnih et al
 
-Twitter’s Deep Learning Group – Hugo Larochelle, Ryan Adams, Clement Farabet et al
+* [Facebook AI Research(FAIR)](https://research.fb.com/category/facebook-ai-research-fair/) – Yann Lecun, Rob Fergus, Jason Weston, Antoine Bordes, Soumit Chintala, Leon Bouttou, Ronan Collobert, Yann Dauphin et al.
 
-[Microsoft Research](https://www.microsoft.com/en-us/research/group/deep-learning-group/) – Li Deng et al
+* [Microsoft Research](https://www.microsoft.com/en-us/research/group/deep-learning-group/) – Li Deng et al
 
 ### Other Resources of Deep Learning
 
