@@ -17,6 +17,7 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
   - [Python Packages for Machine Learning](#python-packages-for-machine-learning)
   - [Practice Your Skills](#pratice-your-skills)
 - [Deep Learning](#deep-learning)
+  - [DP Books](#dp-books)
   - [Deep Learning Courses](#deep-learning-courses)
   - [Frameworks](#frameworks)
   - [Network Architectures and Examples](#network-architectures-and-examples)
@@ -28,6 +29,7 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
     -[Handwriting](#handwriting)
     -[Video](#video)
   - [Model Zoo](#model-zoo)
+  - [Other Resources of Deep Learning](#other-resources-of-deep-learning)
 - [Using Commercial Cloud Computing Platforms](#using-commercial-cloud-computing-platforms)
   - [ML and DL APIs](#ml-and-dl-apis)
 
@@ -74,6 +76,11 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
 * [Pratice your skills and learn from others on kaggle](https://www.kaggle.com/)
 
 ## Deep Learning
+
+### DP Books
+
+  * [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+
 ### Deep Learning Courses
   * [University of Toronto] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) - by:  Geoffrey Hinton, Professor
   * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - by Fei-Fei Li, Andrej Karpathy
@@ -132,12 +139,7 @@ with a different kind of computational graph, which is structured as a deep
 tree, rather than the chain-like structure of RNNs.)
 
 * RNN[[Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)]Recursive deep models for semantic compositionality over a sentiment treebank (2013), R. Socher et al.
-### Resources List of Deep Learning
 
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) -  Practical Deep Learning resources For Coders
-* [Awesome Deep Vision](https://github.com/apacha/awesome-deep-vision) - A list of deep learning resources for computer vision
-* [List of Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
-* [A list of recent papers and trained models](https://github.com/endymecy/awesome-deeplearning-resources)
 
 
 ### Datasets
@@ -157,9 +159,18 @@ tree, rather than the chain-like structure of RNNs.)
 
 ### Model Zoo
 
+(Pretrained Models)
+
 * [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 * [MXNet Model Zoo](http://mxnet.io/model_zoo/)
 * [Keras Model Zoo](https://keras.io/applications/)
 * [Torch Model Zoo](https://github.com/szagoruyko/loadcaffe)- Maintains a list of popular models like AlexNet and VGG .Weights ported from Caffe
+
+### Other Resources of Deep Learning
+
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) -  Practical Deep Learning resources For Coders
+* [Awesome Deep Vision](https://github.com/apacha/awesome-deep-vision) - A list of deep learning resources for computer vision
+* [List of Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [A list of recent papers and trained models](https://github.com/endymecy/awesome-deeplearning-resources)
 
 ## Using Commercial Cloud Computing Platforms
