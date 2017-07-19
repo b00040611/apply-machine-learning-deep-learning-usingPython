@@ -24,10 +24,11 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
     - [Convolutional Networks](#convolutional-networks)
     - [Recurrent Neural Networks](#recurrent-neural-networks)
     - [Recursive Neural Networks](#recursive-neural-networks)
+    - [Generative Adversarial Network](#generative-adversarial-network)
   - [Datasets](#datasets)
-    -[Image](#image)
-    -[Handwriting](#handwriting)
-    -[Video](#video)
+    - [Image](#image)
+    - [Handwriting](#handwriting)
+    - [Video](#video)
   - [Model Zoo](#model-zoo)
   - [Other Resources of Deep Learning](#other-resources-of-deep-learning)
 - [Using Commercial Cloud Computing Platforms](#using-commercial-cloud-computing-platforms)
@@ -134,13 +135,15 @@ Maintainers - [Luke Liu](https://github.com/b00040611)
 
 #### Recursive Neural Networks
 
-(Recursive neural networks2 represent yet another generalization of recurrent networks,
+(Recursive neural networks represent yet another generalization of recurrent networks,
 with a different kind of computational graph, which is structured as a deep
 tree, rather than the chain-like structure of RNNs.)
 
 * RNN[[Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)]Recursive deep models for semantic compositionality over a sentiment treebank (2013), R. Socher et al.
 
+#### Generative Adversarial Network
 
+* GAN - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
 ### Datasets
 
@@ -164,13 +167,18 @@ tree, rather than the chain-like structure of RNNs.)
 * [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 * [MXNet Model Zoo](http://mxnet.io/model_zoo/)
 * [Keras Model Zoo](https://keras.io/applications/)
-* [Torch Model Zoo](https://github.com/szagoruyko/loadcaffe)- Maintains a list of popular models like AlexNet and VGG .Weights ported from Caffe
+* [Torch Model Zoo](https://github.com/szagoruyko/loadcaffe)- Maintains a list of popular models like AlexNet and VGG. Weights ported from Caffe
 
 ### Other Resources of Deep Learning
 
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) -  Practical Deep Learning resources For Coders
 * [Awesome Deep Vision](https://github.com/apacha/awesome-deep-vision) - A list of deep learning resources for computer vision
+* [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
+* [Tensorflow examples](https://github.com/aymericdamien/TensorFlow-Examples)
+* [Awosome PyTorch](https://github.com/rickiepark/awesome-pytorch)
+* [A good PyTorch resource list](https://github.com/ritchieng/the-incredible-pytorch)
+* [Awesome adversarial machine learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 * [List of Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
-* [A list of recent papers and trained models](https://github.com/endymecy/awesome-deeplearning-resources)
+* [A list of recent papers and trained models and other resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
 ## Using Commercial Cloud Computing Platforms
