@@ -36,6 +36,7 @@ Welcome your contribution by comments or [Pull requests](https://github.com/b000
   - [Other Resources of Deep Learning](#other-resources-of-deep-learning)
 - [Using Commercial Cloud Computing Platforms](#using-commercial-cloud-computing-platforms)
   - [ML and DL APIs](#ml-and-dl-apis)
+  - [Deeplearning using cloud](#deeplearning-using-cloud)
 
 ## Python
 
@@ -207,3 +208,5 @@ tree, rather than the chain-like structure of RNNs.)
 * [A list of recent papers and trained models and other resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
 ## Using Commercial Cloud Computing Platforms
+
+### Deeplearning using cloud
