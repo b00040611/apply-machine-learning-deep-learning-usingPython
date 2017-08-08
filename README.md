@@ -210,3 +210,5 @@ tree, rather than the chain-like structure of RNNs.)
 ## Using Commercial Cloud Computing Platforms
 
 ### Deeplearning using cloud
+
+* [Data Science Virtual Machine for Linux (Ubuntu)](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-ads.linux-data-science-vm-ubuntu)
