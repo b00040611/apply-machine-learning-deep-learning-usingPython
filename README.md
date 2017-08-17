@@ -90,6 +90,7 @@ Welcome your contribution by comments or [Pull requests](https://github.com/b000
   * [University of Toronto] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) - by:  Geoffrey Hinton, Professor
   * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - by Fei-Fei Li, Andrej Karpathy
   * [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+  * [Andrew Ng] [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
 
 ### Frameworks
 * Keras: The Python Deep Learning library on top of either TensorFlow, CNTK or Theano. [[Web](https://keras.io/)]
