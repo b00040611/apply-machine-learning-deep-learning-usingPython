@@ -210,6 +210,11 @@ tree, rather than the chain-like structure of RNNs.)
 
 ## Using Commercial Cloud Computing Platforms
 
+### ML and DL APIs
+
+* [Microsoft Cognitive Services APIs](https://azure.microsoft.com/en-gb/services/cognitive-services/)
+* [Google Could Machine Learning APIs](https://cloud.google.com/products/machine-learning/)
+
 ### Deeplearning using cloud
 
 * [Data Science Virtual Machine for Linux (Ubuntu)](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-ads.linux-data-science-vm-ubuntu)
