@@ -33,7 +33,7 @@ Welcome your contribution by comments or [Pull requests](https://github.com/b000
     - [Video](#video)
   - [Model Zoo](#model-zoo)
   - [Research Groups And People](#research-groups-and-people)
-  - [Other Resources of Deep Learning](#other-resources-of-deep-learning)
+  - [Github Resources of Deep Learning](#github-resources-of-deep-learning)
 - [Using Commercial Cloud Computing Platforms](#using-commercial-cloud-computing-platforms)
   - [ML and DL APIs](#ml-and-dl-apis)
   - [Deeplearning using cloud](#deeplearning-using-cloud)
@@ -196,8 +196,10 @@ tree, rather than the chain-like structure of RNNs.)
 
 * [Microsoft Research](https://www.microsoft.com/en-us/research/group/deep-learning-group/) – Li Deng et al
 
-### Other Resources of Deep Learning
+### Github Resources of Deep Learning
 
+* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+* [Deep Learning - All You Need to Know](https://github.com/osforscience/deep-learning-ocean)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) -  Practical Deep Learning resources For Coders
 * [Awesome Deep Vision](https://github.com/apacha/awesome-deep-vision) - A list of deep learning resources for computer vision
 * [Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow)
@@ -207,6 +209,7 @@ tree, rather than the chain-like structure of RNNs.)
 * [Awesome adversarial machine learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 * [List of Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [A list of recent papers and trained models and other resources](https://github.com/endymecy/awesome-deeplearning-resources)
+
 
 ## Using Commercial Cloud Computing Platforms
 
