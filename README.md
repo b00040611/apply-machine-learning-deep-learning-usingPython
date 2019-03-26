@@ -43,7 +43,7 @@ Welcome your contribution by comments or [Pull requests](https://github.com/b000
 ### Python IDE
 
 * [Anaconda](https://www.continuum.io/downloads)- The open source version of Anaconda is a high performance distribution of Python and R and includes over 100 of the most popular Python, R and Scala packages for data science.
-
+* [Google Colab](https://colab.research.google.com)
 ### Courses
 
 * [Programming for Everybody](https://www.coursera.org/learn/python) - Open course in Coursera from University of Michigan.
@@ -91,6 +91,7 @@ Welcome your contribution by comments or [Pull requests](https://github.com/b000
   * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - by Fei-Fei Li, Andrej Karpathy
   * [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   * [Andrew Ng] [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
+  * [Fast ai] [Practial deep learning for coders] (https://course.fast.ai/) 
 
 ### Frameworks
 * Keras: The Python Deep Learning library on top of either TensorFlow, CNTK or Theano. [[Web](https://keras.io/)]
