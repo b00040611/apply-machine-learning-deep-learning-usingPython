@@ -161,6 +161,7 @@ tree, rather than the chain-like structure of RNNs.)
 * [AT&T Laboratories Cambridge face database](http://www.uk.research.att.com/facedatabase.html)
 * [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) from street view
 * [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
+* [Create your own image dataset](https://forums.fast.ai/t/tips-for-building-large-image-datasets/26688)
 
 #### Handwriting
 * [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
