@@ -215,6 +215,10 @@ tree, rather than the chain-like structure of RNNs.)
 
 ## Using Commercial Cloud Computing Platforms
 
+### Setup Environments
+
+* [Setup terminal in windows for Linux](http://wsl-guide.org/en/latest/index.html)
+
 ### ML and DL APIs
 
 * [Microsoft Cognitive Services APIs](https://azure.microsoft.com/en-gb/services/cognitive-services/)
@@ -222,4 +226,6 @@ tree, rather than the chain-like structure of RNNs.)
 
 ### Deeplearning using cloud
 
-* [Data Science Virtual Machine for Linux (Ubuntu)](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-ads.linux-data-science-vm-ubuntu)
+* [Azure Data Science Virtual Machine for Linux (Ubuntu)](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/microsoft-ads.linux-data-science-vm-ubuntu)
+* [AWS for deep learning](https://course.fast.ai/start_aws.html)
+
