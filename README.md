@@ -89,6 +89,7 @@ Welcome your contribution by comments or [Pull requests](https://github.com/b000
 ### Deep Learning Courses
   * [University of Toronto] [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) - by:  Geoffrey Hinton, Professor
   * [Stanford] [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - by Fei-Fei Li, Andrej Karpathy
+  * [Stanford] [CS230: Deep learning](https://cs230.stanford.edu/) - by Fei-Fei Li, Andrej Karpathy
   * [Stanford] [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   * [Andrew Ng] [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning)
   * [Fast ai] [Practial deep learning for coders](https://course.fast.ai/) 
